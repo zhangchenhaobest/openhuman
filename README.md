@@ -1,3 +1,29 @@
+# openhuman
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+最快、最省、最高效的开源 Agent Harness，10 美元 VPS 可跑 500+ Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">OpenHuman</h1>
 
 <p align="center">
